@@ -1,0 +1,19 @@
+
+
+# trash projects
+.vs/
+.vscode/
+
+build/
+build*/
+install/
+install*/
+
+node_modules/
+dist/
+
+.env
+
+cert/
+
+service_account.json
